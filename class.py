@@ -1,7 +1,7 @@
 
 #! /usr/bin/python
 
- MyFirsttest:
+class MyFirsttest:
         x = 5
 obj = MyFirsttest()
 print(obj.x)
